@@ -16,9 +16,7 @@ I identify and exploit security vulnerabilities and demonstrate real-world impac
 
 ## 📂 Work
 
-### 🌐 Web Security (PortSwigger)
-
-**Status: 🚧 Work in Progress**
+### 🌐 [Web Security (PortSwigger)](./portswigger-labs/README.md)
 
 - SQL Injection, XSS, IDOR, SSRF  
 - Auth bypass & logic flaws  
