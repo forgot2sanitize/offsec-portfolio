@@ -20,16 +20,22 @@ Collection of lab write-ups demonstrating practical exploitation of web vulnerab
 
 ---
 
-## 💉 SQL Injection
+## SQL Injection
 
 - [Retrieve hidden data](./sql-injection/retrieve-hidden-data.md)
 - [Database version (Oracle)](./sql-injection/querying-database-version-oracle.md)
+
+## XSS
+
+- [Reflected XSS into a JavaScript string with angle brackets HTML encoded](./xss/javascript-string-angle-brackets-html-encoded.md)
+- [Stored XSS into anchor href attribute with double quotes HTML-encoded](./xss/href-attribute-double-quotes-html-encoded.md)
 
 ---
 
 ## 📂 Structure
 
 - `/sql-injection` - SQLi exploitation
+- `/xss` - XSS exploitation
 - `/img` - Evidence (screenshots)
 
 ---
