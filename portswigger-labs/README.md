@@ -30,12 +30,18 @@ Collection of lab write-ups demonstrating practical exploitation of web vulnerab
 - [Reflected XSS into a JavaScript string with angle brackets HTML encoded](./xss/javascript-string-angle-brackets-html-encoded.md)
 - [Stored XSS into anchor href attribute with double quotes HTML-encoded](./xss/href-attribute-double-quotes-html-encoded.md)
 
+## CSRF
+
+- [CSRF where token validation depends on request method](./csrf/token-validation-depends-on-request-method.md)
+- [CSRF where Referer validation depends on header being present](./csrf/referer-validation-depends-on-header-being-present.md)
+
 ---
 
 ## 📂 Structure
 
 - `/sql-injection` - SQLi exploitation
 - `/xss` - XSS exploitation
+- `/csrf` - CSRF exploitation
 - `/img` - Evidence (screenshots)
 
 ---
