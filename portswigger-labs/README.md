@@ -41,6 +41,10 @@ Collection of lab write-ups demonstrating practical exploitation of web vulnerab
 - [Insecure direct object references](./broken-access-control/insecure-direct-object-references.md)
 - [Multi-step process with no access control on one step](./broken-access-control/multi-step-process-with-no-access-control-on-one-step.md)
 
+## SSRF
+
+- [SSRF with filter bypass via open redirection vulnerability](./ssrf/ssrf-filter-bypass-via-open-redirection.md)
+
 ---
 
 ## 📂 Structure
@@ -49,6 +53,7 @@ Collection of lab write-ups demonstrating practical exploitation of web vulnerab
 - `/xss` - XSS exploitation
 - `/csrf` - CSRF exploitation
 - `/broken-access-control` - Broken Access Control exploitation
+- `/ssrf` - SSRF exploitation 
 - `/img` - Evidence (screenshots)
 
 ---
