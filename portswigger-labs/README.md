@@ -14,6 +14,7 @@ Collection of lab write-ups demonstrating practical exploitation of web vulnerab
 ## 🧠 Covered Skills
 
 - SQL Injection (data extraction, auth bypass)
+- Broken Access Control
 - Cross-Site Scripting (stored, reflected)
 - Input validation bypass
 - Understanding backend behavior
@@ -35,6 +36,11 @@ Collection of lab write-ups demonstrating practical exploitation of web vulnerab
 - [CSRF where token validation depends on request method](./csrf/token-validation-depends-on-request-method.md)
 - [CSRF where Referer validation depends on header being present](./csrf/referer-validation-depends-on-header-being-present.md)
 
+## Broken Access Control
+
+- [Insecure direct object references](./broken-access-control/insecure-direct-object-references.md)
+- [Multi-step process with no access control on one step](./broken-access-control/multi-step-process-with-no-access-control-on-one-step.md)
+
 ---
 
 ## 📂 Structure
@@ -42,6 +48,7 @@ Collection of lab write-ups demonstrating practical exploitation of web vulnerab
 - `/sql-injection` - SQLi exploitation
 - `/xss` - XSS exploitation
 - `/csrf` - CSRF exploitation
+- `/broken-access-control` - Broken Access Control exploitation
 - `/img` - Evidence (screenshots)
 
 ---
