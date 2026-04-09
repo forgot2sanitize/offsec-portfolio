@@ -49,6 +49,10 @@ Hands-on exploitation of OWASP Top 10 vulnerabilities with real-world attack pat
 
 - [SSRF with filter bypass via open redirection vulnerability](./ssrf/ssrf-filter-bypass-via-open-redirection.md)
 
+## 📄 XXE (XML External Entity Injection)
+
+- [Exploiting XXE using external entities to retrieve files](./xxe/exploiting-xxe-to-retrieve-files-vulnerable-endpoint.md)
+
 ---
 
 ## 📂 Structure
@@ -60,6 +64,7 @@ Hands-on exploitation of OWASP Top 10 vulnerabilities with real-world attack pat
 | `/csrf` | CSRF exploitation |
 | `/broken-access-control` | Broken Access Control exploitation |
 | `/ssrf` | SSRF exploitation |
+| `/xxe` | XXE exploitation |
 | `/img` | Evidence (screenshots) |
 
 ---

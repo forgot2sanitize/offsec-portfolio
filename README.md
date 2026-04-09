@@ -26,7 +26,7 @@
 
 Hands-on exploitation of OWASP Top 10 vulnerabilities with real-world attack patterns and impact-driven write-ups.
 
-- SQL Injection, XSS, IDOR, SSRF
+- SQL Injection, XSS, IDOR, SSRF, XXE
 - Auth bypass & logic flaws
 
 ### 💀 Machine Solves (VulnHub / HTB)
