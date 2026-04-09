@@ -1,41 +1,45 @@
 # 🎯 Offensive Security Portfolio
 
-> 🔐 Focus: Web Exploitation • Privilege Escalation • Attack Chains
+![Focus](https://img.shields.io/badge/Focus-Offensive%20Security-red?style=for-the-badge&logo=owasp)
+![Topic](https://img.shields.io/badge/Topic-Web%20Exploitation-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Topic](https://img.shields.io/badge/Topic-Active%20Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![OS](https://img.shields.io/badge/OS-Linux-informational?style=for-the-badge&logo=linux&logoColor=white)
+![OS](https://img.shields.io/badge/OS-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-I identify and exploit security vulnerabilities and demonstrate real-world impact through practical write-ups.
+> I find vulnerabilities, exploit them, and document the impact - the way a real attacker would.
 
 ---
 
 ## 🛠️ Skills & Tools
 
-**Web:** Burp Suite, ffuf  
-**Network:** Nmap, Metasploit  
-**AD:** BloodHound, Impacket  
+| Domain | Tools |
+|---|---|
+| 🌐 Web | Burp Suite, ffuf |
+| 🔌 Network | Nmap, Metasploit |
+| 🏗️ Active Directory | BloodHound, Impacket |
 
 ---
 
 ## 📂 Work
 
-### 🌐 [Web Security (PortSwigger)](./portswigger-labs/README.md)
+### 🌐 [Web Security Labs](./web-security-labs/README.md)
 
-- SQL Injection, XSS, IDOR, SSRF  
-- Auth bypass & logic flaws  
-- Short, impact-focused write-ups  
+Hands-on exploitation of OWASP Top 10 vulnerabilities with real-world attack patterns and impact-driven write-ups.
+
+- SQL Injection, XSS, IDOR, SSRF
+- Auth bypass & logic flaws
 
 ### 💀 Machine Solves (VulnHub / HTB)
 
-**Status: 🚧 Work in Progress**
+**🚧 Work in Progress**
 
-- Full attack chain: initial access -> root  
-- Linux & Windows privilege escalation  
-- Real exploitation, not just theory  
+Full attack chains from initial access to root - Linux and Windows targets, real exploitation, no shortcuts.
 
 ### 🏗️ Active Directory Lab (GOAD)
 
-**Status: 🚧 Work in Progress**
+**🚧 Work in Progress**
 
-- Lateral movement & domain compromise  
-- Kerberoasting, Pass-the-Hash  
+Domain compromise simulations covering lateral movement, Kerberoasting, and Pass-the-Hash in a multi-machine AD environment.
 
 ---
 
@@ -46,8 +50,9 @@ Recon -> Exploit -> PrivEsc -> Proof
 ---
 
 ## 📬 Contact
-- LinkedIn: https://www.linkedin.com/in/serhiichornobai/
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Serhii%20Chornobai-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/serhiichornobai/)
 
 ---
 
-> ⚠️ Educational purposes only. Labs and retired machines.
+> ⚠️ Educational purposes only. All labs performed on retired machines and controlled environments.
